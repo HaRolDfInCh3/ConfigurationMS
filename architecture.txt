@@ -1,0 +1,14 @@
+----------------------------------------------------------
+service 					port
+----------------------------------------------------------
+service passerelle 				1000
+gestionnaire de config 				1001
+service detection doublons			2000
+service authentification user			2001
+service authentification admin			2002
+service news					2003
+service evenement 				2004
+service provider				2005
+service champions				2006
+service decouverte et enregistrement		8761
+
