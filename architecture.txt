@@ -10,5 +10,7 @@ service news					2003
 service evenement 				2004
 service provider				2005
 service champions				2006
+service club                    2007
+service ecriture                2008
 service decouverte et enregistrement		8761
 
